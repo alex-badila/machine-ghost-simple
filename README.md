@@ -1,6 +1,6 @@
 # Machine Ghost Simple
 
-See this site live: https://alex-badila.github.io/machine-ghost/
+See the site live: https://alex-badila.github.io/machine-ghost/
 
 ## Description
 
